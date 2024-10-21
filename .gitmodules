@@ -1,0 +1,12 @@
+[submodule "V2/wordpress-site"]
+	path = V2/wordpress-site
+	url = https://github.com/MarbustTechnologyCompany/FrancoMaquisaca-Website.git
+[submodule "V2/wordpress-db"]
+	path = V2/wordpress-db
+	url = https://github.com/MarbustTechnologyCompany/FrancoMaquisaca-DataBase.git
+[submodule "V2/wordpress-divi-layouts"]
+	path = V2/wordpress-divi-layouts
+	url = https://github.com/MarbustTechnologyCompany/FrancoMaquisaca-divi.git
+[submodule "V1"]
+	path = V1
+	url = https://github.com/MarbustTechnologyCompany/FrancoMaquisaca-NodeJS.git
